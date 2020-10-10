@@ -1,0 +1,4 @@
+# 配置文件变量
+SERVER_PORT=8999 # 服务器端口
+DEBUG=True
+SQLALCHEMY_ECHO=False
